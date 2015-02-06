@@ -1,0 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+html {
+  max-width: 500px
+  color: red;
+  font-family: 'Open Sans', sans-serif;
+}
+

@@ -1,0 +1,25 @@
+@media only screen and (max-width 40em) {
+  body {
+    background: darkred;
+  }
+
+  #hero {
+    max-height: 300px;
+    background: #FAEBD7;
+    border: 2px pink;
+    padding: 15px
+  }
+
+  #super_heroes {
+    height: 40px;
+    border: 2px darkred;
+    background: #DEB887;
+    padding-left: 15px
+    padding-right: 15px
+  } 
+
+
+}
+/*Small: 
+Medium: min-width 40.063em, max-width 60em
+Large: min-width 60.063em*/
