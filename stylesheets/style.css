@@ -31,18 +31,20 @@ html {
     margin: auto;
     background-repeat: no-repeat;
     height: 400px;
+
     
   }
 
   #super_heroes li:nth-child(2) {
-    background-image: url("http://img2.wikia.nocookie.net/__cb20051229010808/marvel_dc/images/5/51/Starfire_005.jpg");
+    background-image: url("http://img3.wikia.nocookie.net/__cb20130131055242/marvel_dc/images/d/d3/Starfire_007.jpg");
     background-repeat: no-repeat;
     height: 300px;
   }
 
   #super_heroes li:nth-child(3) {
-    background-image: url("http://imgc.allpostersimages.com/images/P-473-488-90/51/5125/R7YEG00Z/posters/x-men-worlds-apart-1-cover-storm.jpg");
+    background-image: url("http://4.bp.blogspot.com/-iF3KmDzT1wQ/TXm2bDegz3I/AAAAAAAAC7E/pSuLKoVk5-s/s1600/016.jpg");
     background-repeat: no-repeat;    
+    background-size: 400px 400px;
     height: 400px;
   }
 
@@ -78,14 +80,15 @@ html {
   }
 
   #super_heroes li:nth-child(2) {
-    background-image: url("http://img2.wikia.nocookie.net/__cb20051229010808/marvel_dc/images/5/51/Starfire_005.jpg");
+    background-image: url("http://img3.wikia.nocookie.net/__cb20130131055242/marvel_dc/images/d/d3/Starfire_007.jpg");
     background-repeat: no-repeat;
     height: 300px;
   }
 
   #super_heroes li:nth-child(3) {
-    background-image: url("http://imgc.allpostersimages.com/images/P-473-488-90/51/5125/R7YEG00Z/posters/x-men-worlds-apart-1-cover-storm.jpg");
+    background-image: url("http://4.bp.blogspot.com/-iF3KmDzT1wQ/TXm2bDegz3I/AAAAAAAAC7E/pSuLKoVk5-s/s1600/016.jpg");
     background-repeat: no-repeat;    
+    background-size: 400px 400px;
     height: 400px;
   }
 
@@ -114,14 +117,15 @@ html {
   }
 
   #super_heroes li:nth-child(2) {
-    background-image: url("http://img2.wikia.nocookie.net/__cb20051229010808/marvel_dc/images/5/51/Starfire_005.jpg");
+    background-image: url("http://img3.wikia.nocookie.net/__cb20130131055242/marvel_dc/images/d/d3/Starfire_007.jpg");
     background-repeat: no-repeat;
     height: 300px;
   }
 
   #super_heroes li:nth-child(3) {
-    background-image: url("http://imgc.allpostersimages.com/images/P-473-488-90/51/5125/R7YEG00Z/posters/x-men-worlds-apart-1-cover-storm.jpg");
-    background-repeat: no-repeat;    
+    background-image: url("http://4.bp.blogspot.com/-iF3KmDzT1wQ/TXm2bDegz3I/AAAAAAAAC7E/pSuLKoVk5-s/s1600/016.jpg");
+    background-repeat: no-repeat;   
+    background-size: 400px 400px; 
     height: 400px;
   }
 }
