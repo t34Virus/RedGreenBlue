@@ -19,31 +19,33 @@ html {
   }
 
   #super_heroes {
-    height: 40px;
     background: #DEB887;
     border: 2px solid red;
-    margin-left: 15px;
-    margin-right: 15px;
+    margin: auto;
     padding: 15px;
     
   } 
 
-  #super_heroes ul {
-    height: 300px;
-    margin: 20px;
-  }
-
   #super_heroes li:nth-child(1) {
-    background: orange;
+    background-image: url("http://www.gannett-cdn.com/-mm-/31aeaad1c6d6fe2438eb753b54fa5c29c7431e10/c=23-315-2004-2965&r=537&c=0-0-534-712/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG");
+    margin: auto;
+    background-repeat: no-repeat;
+    height: 400px;
+    
   }
 
   #super_heroes li:nth-child(2) {
-    background: yellow;
+    background-image: url("http://img2.wikia.nocookie.net/__cb20051229010808/marvel_dc/images/5/51/Starfire_005.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
   }
 
   #super_heroes li:nth-child(3) {
-    background: green;
+    background-image: url("http://imgc.allpostersimages.com/images/P-473-488-90/51/5125/R7YEG00Z/posters/x-men-worlds-apart-1-cover-storm.jpg");
+    background-repeat: no-repeat;    
+    height: 400px;
   }
+
 }
 
 @media only screen and (min-width: 40.063em) and (max-width:60em) {
@@ -56,32 +58,38 @@ html {
     height: 200px;
     background: #99FFFF;
     border: 3px solid #6699FF;
-    margin: 20px;
+    margin: auto;
   }
 
   #super_heroes {
-    height: 300px;
+    height: auto;
     background: #99FFFF;
-    margin: 20px;
+    margin: auto;
     border: 3px solid #66CCFF;
   }
+  
 
   #super_heroes li:nth-child(1) {
-    background: orange;
+    background-image: url("http://www.gannett-cdn.com/-mm-/31aeaad1c6d6fe2438eb753b54fa5c29c7431e10/c=23-315-2004-2965&r=537&c=0-0-534-712/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG");
+    margin: auto;
+    background-repeat: no-repeat;
+    height: 400px;
+    
   }
 
   #super_heroes li:nth-child(2) {
-    background: yellow;
+    background-image: url("http://img2.wikia.nocookie.net/__cb20051229010808/marvel_dc/images/5/51/Starfire_005.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
   }
 
   #super_heroes li:nth-child(3) {
-    background: green;
+    background-image: url("http://imgc.allpostersimages.com/images/P-473-488-90/51/5125/R7YEG00Z/posters/x-men-worlds-apart-1-cover-storm.jpg");
+    background-repeat: no-repeat;    
+    height: 400px;
   }
 
 }
-
-
-
 @media only screen and (min-width: 60.063em){
 
   body {
@@ -96,27 +104,25 @@ html {
   #hero {
     max-height: 300px;
     background: #66FF99;
-    margin: 15px;
   }
-
-  #super_heroes {
-    height: 300px;
-    background: #DEB887;
-    border: 2px solid darkred;
-    margin-left: 15px;
-    margin-right: 15px;
-  } 
-
+  
   #super_heroes li:nth-child(1) {
-    background: orange;
+    background-image: url("http://www.gannett-cdn.com/-mm-/31aeaad1c6d6fe2438eb753b54fa5c29c7431e10/c=23-315-2004-2965&r=537&c=0-0-534-712/local/-/media/USATODAY/USATODAY/2014/06/30/1404161899000-WONDER-WOMAN-36-COMICS-JY-665--65511024.JPG");
+    background-repeat: no-repeat;
+    height: 400px;
+    
   }
 
   #super_heroes li:nth-child(2) {
-    background: yellow;
+    background-image: url("http://img2.wikia.nocookie.net/__cb20051229010808/marvel_dc/images/5/51/Starfire_005.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
   }
 
   #super_heroes li:nth-child(3) {
-    background: green;
+    background-image: url("http://imgc.allpostersimages.com/images/P-473-488-90/51/5125/R7YEG00Z/posters/x-men-worlds-apart-1-cover-storm.jpg");
+    background-repeat: no-repeat;    
+    height: 400px;
   }
 }
 
