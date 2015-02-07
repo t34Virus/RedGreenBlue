@@ -32,6 +32,18 @@ html {
     height: 300px;
     margin: 20px;
   }
+
+  #super_heroes li:nth-child(1) {
+    background: orange;
+  }
+
+  #super_heroes li:nth-child(2) {
+    background: yellow;
+  }
+
+  #super_heroes li:nth-child(3) {
+    background: green;
+  }
 }
 
 @media only screen and (min-width: 40.063em) and (max-width:60em) {
@@ -54,6 +66,18 @@ html {
     border: 3px solid #66CCFF;
   }
 
+  #super_heroes li:nth-child(1) {
+    background: orange;
+  }
+
+  #super_heroes li:nth-child(2) {
+    background: yellow;
+  }
+
+  #super_heroes li:nth-child(3) {
+    background: green;
+  }
+
 }
 
 
@@ -73,15 +97,26 @@ html {
     max-height: 300px;
     background: #66FF99;
     margin: 15px;
-
-}
+  }
 
   #super_heroes {
-    height: 3000px;
+    height: 300px;
     background: #DEB887;
     border: 2px solid darkred;
     margin-left: 15px;
     margin-right: 15px;
-} 
+  } 
+
+  #super_heroes li:nth-child(1) {
+    background: orange;
+  }
+
+  #super_heroes li:nth-child(2) {
+    background: yellow;
+  }
+
+  #super_heroes li:nth-child(3) {
+    background: green;
+  }
 }
 
